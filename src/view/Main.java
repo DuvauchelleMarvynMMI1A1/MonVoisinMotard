@@ -1,4 +1,4 @@
-package view;
+package src.view;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import model.Garage;
 import stockage.DaoJPA;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 	

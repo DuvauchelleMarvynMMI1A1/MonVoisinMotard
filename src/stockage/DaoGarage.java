@@ -1,4 +1,4 @@
-package stockage;
+package src.stockage;
 
 import java.io.Serializable;
 import java.util.List;
