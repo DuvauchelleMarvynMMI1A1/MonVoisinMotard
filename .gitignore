@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-*.java
 build/classes/view/main.class
 *.class
 =======
 .classpath
 >>>>>>> origin/master
-/bin/
+
