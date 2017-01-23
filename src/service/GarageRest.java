@@ -15,8 +15,8 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import model.Garage;
-import stockage.DaoGarage;
+import src.model.Garage;
+import src.stockage.DaoGarage;
 
 
 @Stateless
