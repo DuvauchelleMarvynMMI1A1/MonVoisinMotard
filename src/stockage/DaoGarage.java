@@ -18,7 +18,7 @@ public class DaoGarage<T> implements Dao<T>, Serializable {
 	private EntityManager em;
 
 public DaoGarage() {
-	em = Persistence.createEntityManagerFactory("MonVoisinMotard").createEntityManager();
+	//em = Persistence.createEntityManagerFactory("MonVoisinMotard").createEntityManager();
 }
 	@Override
 	public T find(int id) {
