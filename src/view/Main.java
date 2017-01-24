@@ -3,8 +3,9 @@ package src.view;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.Garage;
-import stockage.DaoJPA;
+import src.model.Garage;
+import src.stockage.DaoGarage;
+
 
 public class Main {
 

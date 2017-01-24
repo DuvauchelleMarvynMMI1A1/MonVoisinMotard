@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 import java.util.Date;
 
@@ -23,6 +23,8 @@ public class User {
 	public String zipCode;
 	public String description;
 	public String photo;
+	
+	public User(){}
 	
 	public User(int id, String lastName, String firstName, String username, String gender, int age, Date birthDate,
 			String email, String phone, String zipCode, String description, String photo) {
